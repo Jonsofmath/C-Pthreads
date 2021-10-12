@@ -1,5 +1,5 @@
 /*****************************************************************************
-* FILE: test.cpp
+* FILE: pthreads.cpp
 * DESCRIPTION:
 *	This program determinates the matricial product of a matrix of size 
 *	n, where n is a random number between 3 and 8. This is done with a
