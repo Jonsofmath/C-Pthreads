@@ -4,9 +4,15 @@ Source code that determinates the matricial product of two arrays and pi value u
 Author:
   Jonathan Ramírez Hernández
   
-# Compilation and run
+# Compilation
 Open a terminal where the source code is located and type the following command:
 
 ```
   make  
+```
+
+# Run
+Just run the executable:
+```
+  ./pthreads 
 ```
